@@ -1,6 +1,6 @@
 # ISU-Gorden_non-inferiority_study
 
-Manuscript title: A randomized non-inferiority study evaluating the efficacy of two commercially available teat sealants in dairy cows.
+Manuscript title: A randomized equivalence study evaluating the efficacy of two commercially available teat sealants in dairy cows.
 
 Authors: Michelle P. Buckley1, Jenna Bayne2#, Tiago Tomazi3, Brian E. Miller3, Sandra M. Godden4, Gustavo S. Silva2, and Patrick J. Gorden2*
 
